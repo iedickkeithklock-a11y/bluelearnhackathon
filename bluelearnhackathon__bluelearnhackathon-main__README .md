@@ -7,6 +7,4 @@ https://drive.google.com/drive/folders/13fUmCOquclo4FhNiV9xVLyvuuuFKk38K?usp=sha
  download this ml model and put this in flask folder
  
  
- first in flask  python main.py
- second in bl_hack_backend_main  npm start
- third in frontend  npm start
+现在的启动步骤是 flask 里跑 python main.py、bl_hack_backend_main 里 npm start、frontend 里 npm start
